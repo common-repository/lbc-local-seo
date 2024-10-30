@@ -1,0 +1,2836 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LBC Local SEO v1.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-12 09:46+0100\n"
+"PO-Revision-Date: 2014-04-12 09:47+0100\n"
+"Last-Translator: Marketing Commando Ltd. <info@marketingcommando.co.uk>\n"
+"Language-Team: Local Biz Commando <info@localbizcommando.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../views/location-settings.php:9
+msgid "Edit Location"
+msgstr ""
+
+#: ../views/location-settings.php:13
+#: ../views/location-settings.php:122
+#: ../views/location-settings.php:193
+#: ../views/location-settings.php:223
+#: ../views/location-settings.php:317
+#: ../views/location-settings.php:380
+#: ../views/location-settings.php:527
+#: ../views/location-settings.php:776
+#: ../views/location-settings.php:835
+msgid "Save Location"
+msgstr ""
+
+#: ../views/location-settings.php:21
+#: ../views/location-settings.php:25
+msgid "Name"
+msgstr ""
+
+#: ../views/location-settings.php:32
+#: ../views/location-settings.php:36
+msgid "Type"
+msgstr ""
+
+#: ../views/location-settings.php:52
+msgid "Select the type that is the most relevant to your business. If none of them is relevant then select: "
+msgstr ""
+
+#: ../views/location-settings.php:57
+#: ../views/location-settings.php:61
+msgid "Short description"
+msgstr ""
+
+#: ../views/location-settings.php:68
+#: ../views/location-settings.php:72
+msgid "Meta description"
+msgstr ""
+
+#: ../views/location-settings.php:77
+msgid "Write a compelling description that a searcher will want to click. Keep it relevant to the location and make sure it's unique for each location."
+msgstr ""
+
+#: ../views/location-settings.php:79
+msgid "This description will appear on search engine (Google, Bing, etc.) result pages below the title."
+msgstr ""
+
+#: ../views/location-settings.php:81
+msgid "It will be used by social media sites (Facebook, Twitter, Google+, etc.) as well when this location will be shared."
+msgstr ""
+
+#: ../views/location-settings.php:83
+msgid "If you leave it empty then the first"
+msgstr ""
+
+#: ../views/location-settings.php:83
+msgid "characters of the short description will be used as meta description. If the short description is empty as well then the address and the phone number will be used as meta description."
+msgstr ""
+
+#: ../views/location-settings.php:85
+msgid "Max length"
+msgstr ""
+
+#: ../views/location-settings.php:85
+msgid "character."
+msgstr ""
+
+#: ../views/location-settings.php:91
+#: ../views/location-settings.php:95
+msgid "Website URL"
+msgstr ""
+
+#: ../views/location-settings.php:102
+#: ../views/location-settings.php:106
+#: ../views/location-settings.php:114
+msgid "Logo"
+msgstr ""
+
+#: ../views/location-settings.php:109
+msgid "Upload"
+msgstr ""
+
+#: ../views/location-settings.php:110
+msgid "Remove"
+msgstr ""
+
+#: ../views/location-settings.php:130
+#: ../views/location-settings.php:134
+msgid "Street address"
+msgstr ""
+
+#: ../views/location-settings.php:141
+#: ../views/location-settings.php:145
+msgid "City/locality"
+msgstr ""
+
+#: ../views/location-settings.php:152
+#: ../views/location-settings.php:156
+msgid "State/region"
+msgstr ""
+
+#: ../views/location-settings.php:163
+#: ../views/location-settings.php:167
+msgid "Country"
+msgstr ""
+
+#: ../views/location-settings.php:181
+#: ../views/location-settings.php:185
+msgid "Postcode"
+msgstr ""
+
+#: ../views/location-settings.php:199
+msgid "Show map on location page: "
+msgstr ""
+
+#: ../views/location-settings.php:208
+msgid "Calculate coordinates based on the address above"
+msgstr ""
+
+#: ../views/location-settings.php:211
+msgid "Street address and postcode are required for calculating the coordinates!"
+msgstr ""
+
+#: ../views/location-settings.php:213
+msgid "If the pin has not been put to the right place you can drag and drop it to the right place."
+msgstr ""
+
+#: ../views/location-settings.php:217
+msgid "Latitude: "
+msgstr ""
+
+#: ../views/location-settings.php:219
+msgid "Longitude: "
+msgstr ""
+
+#: ../views/location-settings.php:231
+msgid "Show contact details on location page: "
+msgstr ""
+
+#: ../views/location-settings.php:243
+#: ../views/location-settings.php:247
+#: ../models/model.php:1798
+msgid "Phone numbers"
+msgstr ""
+
+#: ../views/location-settings.php:266
+msgid "Add new phone number"
+msgstr ""
+
+#: ../views/location-settings.php:269
+msgid "If you would like to delete a phone number then delete the text from the input field and save the form."
+msgstr ""
+
+#: ../views/location-settings.php:274
+#: ../views/location-settings.php:278
+msgid "Fax numbers"
+msgstr ""
+
+#: ../views/location-settings.php:297
+msgid "Add new fax number"
+msgstr ""
+
+#: ../views/location-settings.php:300
+msgid "If you would like to delete a fax number then delete the text from the input field and save the form."
+msgstr ""
+
+#: ../views/location-settings.php:305
+#: ../views/location-settings.php:309
+msgid "Email"
+msgstr ""
+
+#: ../views/location-settings.php:325
+msgid "Show payment details on location page: "
+msgstr ""
+
+#: ../views/location-settings.php:337
+#: ../views/location-settings.php:341
+msgid "Accepted payment types"
+msgstr ""
+
+#: ../views/location-settings.php:342
+#: ../views/location-settings.php:344
+msgid "Cash, credit card, PayPal, etc."
+msgstr ""
+
+#: ../views/location-settings.php:349
+#: ../views/location-settings.php:353
+msgid "Accepted currencies"
+msgstr ""
+
+#: ../views/location-settings.php:355
+msgid "Currencies"
+msgstr ""
+
+#: ../views/location-settings.php:361
+#: ../views/location-settings.php:365
+msgid "Price range (for Google listings)"
+msgstr ""
+
+#: ../views/location-settings.php:385
+msgid "Show opening hours on location page: "
+msgstr ""
+
+#: ../views/location-settings.php:397
+#: ../views/location-settings.php:546
+msgid "1st set of opening hours"
+msgstr ""
+
+#: ../views/location-settings.php:399
+#: ../views/location-settings.php:548
+msgid "2nd set of opening hours"
+msgstr ""
+
+#: ../views/location-settings.php:402
+msgid "Day"
+msgstr ""
+
+#: ../views/location-settings.php:403
+#: ../views/location-settings.php:407
+#: ../views/location-settings.php:554
+#: ../views/location-settings.php:558
+msgid "Open?"
+msgstr ""
+
+#: ../views/location-settings.php:404
+#: ../views/location-settings.php:408
+#: ../views/location-settings.php:555
+#: ../views/location-settings.php:559
+msgid "Opens at"
+msgstr ""
+
+#: ../views/location-settings.php:405
+#: ../views/location-settings.php:409
+#: ../views/location-settings.php:556
+#: ../views/location-settings.php:560
+msgid "Closes at"
+msgstr ""
+
+#: ../views/location-settings.php:518
+#: ../views/location-settings.php:689
+msgid "If the 'Open?' checkbox is not ticked for a set of opening hours then that set of opening hours won't be saved."
+msgstr ""
+
+#: ../views/location-settings.php:520
+#: ../views/location-settings.php:691
+msgid "If any of the time options (hour, minute, am/pm*) are not selected for an Opening/Closing time then that Opening/Closing time (for that day) won't be saved."
+msgstr ""
+
+#: ../views/location-settings.php:522
+#: ../views/location-settings.php:693
+msgid "* am/pm options are only available if '12 hours format' is selected on the 'Settings' tab."
+msgstr ""
+
+#: ../views/location-settings.php:532
+msgid "Show special opening hours on location page: "
+msgstr ""
+
+#: ../views/location-settings.php:551
+msgid "Title"
+msgstr ""
+
+#: ../views/location-settings.php:552
+msgid "Date"
+msgstr ""
+
+#: ../views/location-settings.php:553
+msgid "Closed"
+msgstr ""
+
+#: ../views/location-settings.php:553
+msgid "all day?"
+msgstr ""
+
+#: ../views/location-settings.php:680
+msgid "Add new special opening hours"
+msgstr ""
+
+#: ../views/location-settings.php:683
+msgid "The 'Date' is mandatory! The rows of special opening hours without 'Date' won't be saved."
+msgstr ""
+
+#: ../views/location-settings.php:685
+msgid "'Date' format: "
+msgstr ""
+
+#: ../views/location-settings.php:685
+msgid "(e.g.: 2014-05-22)"
+msgstr ""
+
+#: ../views/location-settings.php:687
+msgid "If the 'Closed all day?' checkbox is ticked then none of the set of opening hours will be saved."
+msgstr ""
+
+#: ../views/location-settings.php:784
+msgid "Show social media links on location page: "
+msgstr ""
+
+#: ../views/location-settings.php:829
+msgid "If you don't have a social media link leave the field next to it empty. Social icons without a link will not be displayed."
+msgstr ""
+
+#: ../views/location-settings.php:853
+#: ../views/settings.php:104
+#: ../views/user-guide.php:27
+msgid "Created by"
+msgstr ""
+
+#: ../views/location.php:11
+msgid "logo"
+msgstr ""
+
+#: ../views/location.php:118
+msgid "Latitude"
+msgstr ""
+
+#: ../views/location.php:126
+msgid "Longitude"
+msgstr ""
+
+#: ../views/location.php:171
+msgid "Telephone: "
+msgstr ""
+
+#: ../views/location.php:190
+msgid "Fax: "
+msgstr ""
+
+#: ../views/location.php:209
+msgid "Email: "
+msgstr ""
+
+#: ../views/location.php:232
+msgid "Accepted payment types: "
+msgstr ""
+
+#: ../views/location.php:243
+msgid "Accepted currencies: "
+msgstr ""
+
+#: ../views/location.php:254
+msgid "Price range: "
+msgstr ""
+
+#: ../views/location.php:287
+msgid "Opening hours: "
+msgstr ""
+
+#: ../views/location.php:354
+msgid "Special opening hours: "
+msgstr ""
+
+#: ../views/location.php:376
+msgid "Closed all day"
+msgstr ""
+
+#: ../views/location.php:428
+msgid "Updated"
+msgstr ""
+
+#: ../views/settings.php:9
+#: ../controllers/controller.php:148
+#: ../controllers/controller.php:149
+msgid "Settings"
+msgstr ""
+
+#: ../views/settings.php:13
+#: ../views/settings.php:99
+msgid "Save Settings"
+msgstr ""
+
+#: ../views/settings.php:20
+#: ../views/settings.php:24
+msgid "Location page slug"
+msgstr ""
+
+#: ../views/settings.php:29
+msgid "Unique string for the location. It will appear in the URL of the location page. Allowed characters"
+msgstr ""
+
+#: ../views/settings.php:29
+msgid "E.g.: store-location"
+msgstr ""
+
+#: ../views/settings.php:31
+msgid "If you leave this field empty the slug will be automatically generated."
+msgstr ""
+
+#: ../views/settings.php:33
+msgid "A WP page will be automatically created if it doesn't exist yet. (name: "
+msgstr ""
+
+#: ../views/settings.php:33
+msgid "'Location'"
+msgstr ""
+
+#: ../views/settings.php:33
+msgid ", slug: the slug above)"
+msgstr ""
+
+#: ../views/settings.php:39
+msgid "Google Maps API key"
+msgstr ""
+
+#: ../views/settings.php:39
+msgid "(optional)"
+msgstr ""
+
+#: ../views/settings.php:43
+msgid "Google Maps API key (optional)"
+msgstr ""
+
+#: ../views/settings.php:48
+msgid "Google Maps API key is optional. You can leave this field empty."
+msgstr ""
+
+#: ../views/settings.php:50
+msgid "If you want to monitor your usage of Google Maps then you need to enter a Google Maps API key."
+msgstr ""
+
+#: ../views/settings.php:51
+msgid "To find out how to obtain an API key please click here."
+msgstr ""
+
+#: ../views/settings.php:57
+#: ../views/settings.php:61
+msgid "Address format"
+msgstr ""
+
+#: ../views/settings.php:72
+msgid "will be replaced with a line break. If you need a different address format please feel free to contact us and we will add it. Email"
+msgstr ""
+
+#: ../views/settings.php:79
+#: ../views/settings.php:83
+msgid "Opening hours format"
+msgstr ""
+
+#: ../views/user-guide.php:9
+#: ../controllers/controller.php:158
+#: ../controllers/controller.php:159
+msgid "User Guide"
+msgstr ""
+
+#: ../views/user-guide.php:11
+msgid "Set up guide"
+msgstr ""
+
+#: ../views/user-guide.php:14
+msgid "Go to the 'LBC Local SEO/Settings' page."
+msgstr ""
+
+#: ../views/user-guide.php:15
+#: ../views/user-guide.php:18
+msgid "Enter/select all information."
+msgstr ""
+
+#: ../views/user-guide.php:16
+msgid "Click on the 'Save Settings' button. (A WP page will be automatically created if it doesn't exist yet. [name: 'Location'])"
+msgstr ""
+
+#: ../views/user-guide.php:17
+msgid "Go to the 'LBC Local SEO/Location' page."
+msgstr ""
+
+#: ../views/user-guide.php:19
+msgid "Click on the 'Save Location' button. (Any 'Save Location' button on the page saves all location settings.)"
+msgstr ""
+
+#: ../views/user-guide.php:20
+msgid "Go to the 'Appearance/Menus' page."
+msgstr ""
+
+#: ../views/user-guide.php:21
+msgid "Find and add the 'Location' WP page to a menu."
+msgstr ""
+
+#: ../views/user-guide.php:22
+msgid "Click on the 'Save Menu' button."
+msgstr ""
+
+#: ../views/user-guide.php:23
+msgid "Congratulations! ;) You've set up the"
+msgstr ""
+
+#: ../models/model.php:70
+msgid "Monday"
+msgstr ""
+
+#: ../models/model.php:71
+msgid "Tuesday"
+msgstr ""
+
+#: ../models/model.php:72
+msgid "Wednesday"
+msgstr ""
+
+#: ../models/model.php:73
+msgid "Thursday"
+msgstr ""
+
+#: ../models/model.php:74
+msgid "Friday"
+msgstr ""
+
+#: ../models/model.php:75
+msgid "Saturday"
+msgstr ""
+
+#: ../models/model.php:76
+msgid "Sunday"
+msgstr ""
+
+#: ../models/model.php:123
+msgid "Invalid view name."
+msgstr ""
+
+#: ../models/model.php:161
+#: ../models/model.php:1687
+#: ../controllers/controller.php:138
+#: ../controllers/controller.php:139
+msgid "Location"
+msgstr ""
+
+#: ../models/model.php:201
+msgid "street address"
+msgstr ""
+
+#: ../models/model.php:202
+msgid "region"
+msgstr ""
+
+#: ../models/model.php:203
+msgid "state"
+msgstr ""
+
+#: ../models/model.php:204
+msgid "city"
+msgstr ""
+
+#: ../models/model.php:205
+msgid "postcode"
+msgstr ""
+
+#: ../models/model.php:206
+msgid "zipcode"
+msgstr ""
+
+#: ../models/model.php:207
+msgid "country"
+msgstr ""
+
+#: ../models/model.php:227
+#: ../models/model.php:228
+msgid "hours format"
+msgstr ""
+
+#: ../models/model.php:243
+msgid "Animal Shelter"
+msgstr ""
+
+#: ../models/model.php:246
+msgid "Automotive Business"
+msgstr ""
+
+#: ../models/model.php:248
+msgid "Auto Body Shop"
+msgstr ""
+
+#: ../models/model.php:249
+msgid "Auto Dealer"
+msgstr ""
+
+#: ../models/model.php:250
+#: ../models/model.php:415
+msgid "Auto Parts Store"
+msgstr ""
+
+#: ../models/model.php:251
+msgid "Auto Rental"
+msgstr ""
+
+#: ../models/model.php:252
+msgid "Auto Repair"
+msgstr ""
+
+#: ../models/model.php:253
+msgid "Auto Wash"
+msgstr ""
+
+#: ../models/model.php:254
+msgid "Gas Station"
+msgstr ""
+
+#: ../models/model.php:255
+msgid "Motorcycle Dealer"
+msgstr ""
+
+#: ../models/model.php:256
+msgid "Motorcycle Repair"
+msgstr ""
+
+#: ../models/model.php:260
+msgid "Child Care"
+msgstr ""
+
+#: ../models/model.php:263
+msgid "Dry Cleaning Or Laundry"
+msgstr ""
+
+#: ../models/model.php:266
+msgid "Emergency Service"
+msgstr ""
+
+#: ../models/model.php:268
+msgid "Fire Station"
+msgstr ""
+
+#: ../models/model.php:269
+#: ../models/model.php:360
+msgid "Hospital"
+msgstr ""
+
+#: ../models/model.php:270
+msgid "Police Station"
+msgstr ""
+
+#: ../models/model.php:274
+msgid "Employment Agency"
+msgstr ""
+
+#: ../models/model.php:277
+msgid "Entertainment Business"
+msgstr ""
+
+#: ../models/model.php:279
+msgid "Adult Entertainment"
+msgstr ""
+
+#: ../models/model.php:280
+msgid "Amusement Park"
+msgstr ""
+
+#: ../models/model.php:281
+msgid "Art Gallery"
+msgstr ""
+
+#: ../models/model.php:282
+msgid "Casino"
+msgstr ""
+
+#: ../models/model.php:283
+msgid "Comedy Club"
+msgstr ""
+
+#: ../models/model.php:284
+msgid "Movie Theater"
+msgstr ""
+
+#: ../models/model.php:285
+msgid "Night Club"
+msgstr ""
+
+#: ../models/model.php:289
+msgid "Financial Service"
+msgstr ""
+
+#: ../models/model.php:291
+#: ../models/model.php:371
+msgid "Accounting Service"
+msgstr ""
+
+#: ../models/model.php:292
+msgid "Automated Teller"
+msgstr ""
+
+#: ../models/model.php:293
+msgid "Bank Or Credit Union"
+msgstr ""
+
+#: ../models/model.php:294
+msgid "Insurance Agency"
+msgstr ""
+
+#: ../models/model.php:298
+msgid "Food Establishment"
+msgstr ""
+
+#: ../models/model.php:300
+msgid "Bakery"
+msgstr ""
+
+#: ../models/model.php:301
+msgid "Bar Or Pub"
+msgstr ""
+
+#: ../models/model.php:302
+msgid "Brewery"
+msgstr ""
+
+#: ../models/model.php:303
+msgid "Cafe Or Coffee Shop"
+msgstr ""
+
+#: ../models/model.php:304
+msgid "Fast Food Restaurant"
+msgstr ""
+
+#: ../models/model.php:305
+msgid "Ice Cream Shop"
+msgstr ""
+
+#: ../models/model.php:306
+msgid "Restaurant"
+msgstr ""
+
+#: ../models/model.php:307
+msgid "Winery"
+msgstr ""
+
+#: ../models/model.php:311
+msgid "Government Office"
+msgstr ""
+
+#: ../models/model.php:313
+msgid "Post Office"
+msgstr ""
+
+#: ../models/model.php:317
+msgid "Health And Beauty Business"
+msgstr ""
+
+#: ../models/model.php:319
+msgid "Beauty Salon"
+msgstr ""
+
+#: ../models/model.php:320
+msgid "Day Spa"
+msgstr ""
+
+#: ../models/model.php:321
+msgid "Hair Salon"
+msgstr ""
+
+#: ../models/model.php:322
+#: ../models/model.php:404
+msgid "Health Club"
+msgstr ""
+
+#: ../models/model.php:323
+msgid "Nail Salon"
+msgstr ""
+
+#: ../models/model.php:324
+msgid "Tattoo Parlor"
+msgstr ""
+
+#: ../models/model.php:328
+msgid "Home And Construction Business"
+msgstr ""
+
+#: ../models/model.php:330
+#: ../models/model.php:374
+msgid "Electrician"
+msgstr ""
+
+#: ../models/model.php:331
+#: ../models/model.php:375
+msgid "General Contractor"
+msgstr ""
+
+#: ../models/model.php:332
+msgid "H V A C Business"
+msgstr ""
+
+#: ../models/model.php:333
+#: ../models/model.php:376
+msgid "House Painter"
+msgstr ""
+
+#: ../models/model.php:334
+#: ../models/model.php:377
+msgid "Locksmith"
+msgstr ""
+
+#: ../models/model.php:335
+msgid "Moving Company"
+msgstr ""
+
+#: ../models/model.php:336
+#: ../models/model.php:379
+msgid "Plumber"
+msgstr ""
+
+#: ../models/model.php:337
+#: ../models/model.php:380
+msgid "Roofing Contractor"
+msgstr ""
+
+#: ../models/model.php:341
+msgid "Internet Cafe"
+msgstr ""
+
+#: ../models/model.php:344
+msgid "Library"
+msgstr ""
+
+#: ../models/model.php:347
+msgid "Lodging Business"
+msgstr ""
+
+#: ../models/model.php:349
+msgid "Bed And Breakfast"
+msgstr ""
+
+#: ../models/model.php:350
+msgid "Hostel"
+msgstr ""
+
+#: ../models/model.php:351
+msgid "Hotel"
+msgstr ""
+
+#: ../models/model.php:352
+msgid "Motel"
+msgstr ""
+
+#: ../models/model.php:356
+msgid "Medical Organization"
+msgstr ""
+
+#: ../models/model.php:358
+#: ../models/model.php:373
+msgid "Dentist"
+msgstr ""
+
+#: ../models/model.php:359
+msgid "Diagnostic Lab"
+msgstr ""
+
+#: ../models/model.php:361
+msgid "Medical Clinic"
+msgstr ""
+
+#: ../models/model.php:362
+msgid "Optician"
+msgstr ""
+
+#: ../models/model.php:363
+msgid "Pharmacy"
+msgstr ""
+
+#: ../models/model.php:364
+msgid "Physician"
+msgstr ""
+
+#: ../models/model.php:365
+msgid "Veterinary Care"
+msgstr ""
+
+#: ../models/model.php:369
+msgid "Professional Service"
+msgstr ""
+
+#: ../models/model.php:372
+msgid "Attorney"
+msgstr ""
+
+#: ../models/model.php:378
+msgid "Notary"
+msgstr ""
+
+#: ../models/model.php:384
+msgid "Radio Station"
+msgstr ""
+
+#: ../models/model.php:387
+msgid "Real Estate Agent"
+msgstr ""
+
+#: ../models/model.php:390
+msgid "Recycling Center"
+msgstr ""
+
+#: ../models/model.php:393
+msgid "Self Storage"
+msgstr ""
+
+#: ../models/model.php:396
+msgid "Shopping Center"
+msgstr ""
+
+#: ../models/model.php:399
+msgid "Sports Activity Location"
+msgstr ""
+
+#: ../models/model.php:401
+msgid "Bowling Alley"
+msgstr ""
+
+#: ../models/model.php:402
+msgid "Exercise Gym"
+msgstr ""
+
+#: ../models/model.php:403
+msgid "Golf Course"
+msgstr ""
+
+#: ../models/model.php:405
+msgid "Public Swimming Pool"
+msgstr ""
+
+#: ../models/model.php:406
+msgid "Ski Resort"
+msgstr ""
+
+#: ../models/model.php:407
+msgid "Sports Club"
+msgstr ""
+
+#: ../models/model.php:408
+msgid "Stadium Or Arena"
+msgstr ""
+
+#: ../models/model.php:409
+msgid "Tennis Complex"
+msgstr ""
+
+#: ../models/model.php:413
+msgid "Store"
+msgstr ""
+
+#: ../models/model.php:416
+msgid "Bike Store"
+msgstr ""
+
+#: ../models/model.php:417
+msgid "Book Store"
+msgstr ""
+
+#: ../models/model.php:418
+msgid "Clothing Store"
+msgstr ""
+
+#: ../models/model.php:419
+msgid "Computer Store"
+msgstr ""
+
+#: ../models/model.php:420
+msgid "Convenience Store"
+msgstr ""
+
+#: ../models/model.php:421
+msgid "Department Store"
+msgstr ""
+
+#: ../models/model.php:422
+msgid "Electronics Store"
+msgstr ""
+
+#: ../models/model.php:423
+msgid "Florist"
+msgstr ""
+
+#: ../models/model.php:424
+msgid "Furniture Store"
+msgstr ""
+
+#: ../models/model.php:425
+msgid "Garden Store"
+msgstr ""
+
+#: ../models/model.php:426
+msgid "Grocery Store"
+msgstr ""
+
+#: ../models/model.php:427
+msgid "Hardware Store"
+msgstr ""
+
+#: ../models/model.php:428
+msgid "Hobby Shop"
+msgstr ""
+
+#: ../models/model.php:429
+msgid "Home Goods Store"
+msgstr ""
+
+#: ../models/model.php:430
+msgid "Jewelry Store"
+msgstr ""
+
+#: ../models/model.php:431
+msgid "Liquor Store"
+msgstr ""
+
+#: ../models/model.php:432
+msgid "Mens Clothing Store"
+msgstr ""
+
+#: ../models/model.php:433
+msgid "Mobile Phone Store"
+msgstr ""
+
+#: ../models/model.php:434
+msgid "Movie Rental Store"
+msgstr ""
+
+#: ../models/model.php:435
+msgid "Music Store"
+msgstr ""
+
+#: ../models/model.php:436
+msgid "Office Equipment Store"
+msgstr ""
+
+#: ../models/model.php:437
+msgid "Outlet Store"
+msgstr ""
+
+#: ../models/model.php:438
+msgid "Pawn Shop"
+msgstr ""
+
+#: ../models/model.php:439
+msgid "Pet Store"
+msgstr ""
+
+#: ../models/model.php:440
+msgid "Shoe Store"
+msgstr ""
+
+#: ../models/model.php:441
+msgid "Sporting Goods Store"
+msgstr ""
+
+#: ../models/model.php:442
+msgid "Tire Shop"
+msgstr ""
+
+#: ../models/model.php:443
+msgid "Toy Store"
+msgstr ""
+
+#: ../models/model.php:444
+msgid "Wholesale Store"
+msgstr ""
+
+#: ../models/model.php:448
+msgid "Television Station"
+msgstr ""
+
+#: ../models/model.php:451
+msgid "Tourist Information Center"
+msgstr ""
+
+#: ../models/model.php:454
+msgid "Travel Agency"
+msgstr ""
+
+#: ../models/model.php:457
+msgid "Other (Local Business)"
+msgstr ""
+
+#: ../models/model.php:473
+msgid "Afghanistan"
+msgstr ""
+
+#: ../models/model.php:474
+msgid "Åland Islands"
+msgstr ""
+
+#: ../models/model.php:475
+msgid "Albania"
+msgstr ""
+
+#: ../models/model.php:476
+msgid "Algeria"
+msgstr ""
+
+#: ../models/model.php:477
+msgid "American Samoa"
+msgstr ""
+
+#: ../models/model.php:478
+msgid "Andorra"
+msgstr ""
+
+#: ../models/model.php:479
+msgid "Angola"
+msgstr ""
+
+#: ../models/model.php:480
+msgid "Anguilla"
+msgstr ""
+
+#: ../models/model.php:481
+msgid "Antarctica"
+msgstr ""
+
+#: ../models/model.php:482
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../models/model.php:483
+msgid "Argentina"
+msgstr ""
+
+#: ../models/model.php:484
+msgid "Armenia"
+msgstr ""
+
+#: ../models/model.php:485
+msgid "Aruba"
+msgstr ""
+
+#: ../models/model.php:486
+msgid "Australia"
+msgstr ""
+
+#: ../models/model.php:487
+msgid "Austria"
+msgstr ""
+
+#: ../models/model.php:488
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../models/model.php:489
+msgid "Bahamas"
+msgstr ""
+
+#: ../models/model.php:490
+msgid "Bahrain"
+msgstr ""
+
+#: ../models/model.php:491
+msgid "Bangladesh"
+msgstr ""
+
+#: ../models/model.php:492
+msgid "Barbados"
+msgstr ""
+
+#: ../models/model.php:493
+msgid "Belarus"
+msgstr ""
+
+#: ../models/model.php:494
+msgid "Belgium"
+msgstr ""
+
+#: ../models/model.php:495
+msgid "Belize"
+msgstr ""
+
+#: ../models/model.php:496
+msgid "Benin"
+msgstr ""
+
+#: ../models/model.php:497
+msgid "Bermuda"
+msgstr ""
+
+#: ../models/model.php:498
+msgid "Bhutan"
+msgstr ""
+
+#: ../models/model.php:499
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+#: ../models/model.php:500
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: ../models/model.php:501
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../models/model.php:502
+msgid "Botswana"
+msgstr ""
+
+#: ../models/model.php:503
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../models/model.php:504
+msgid "Brazil"
+msgstr ""
+
+#: ../models/model.php:505
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../models/model.php:506
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: ../models/model.php:507
+msgid "Bulgaria"
+msgstr ""
+
+#: ../models/model.php:508
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../models/model.php:509
+msgid "Burundi"
+msgstr ""
+
+#: ../models/model.php:510
+msgid "Cambodia"
+msgstr ""
+
+#: ../models/model.php:511
+msgid "Cameroon"
+msgstr ""
+
+#: ../models/model.php:512
+msgid "Canada"
+msgstr ""
+
+#: ../models/model.php:513
+msgid "Cape Verde"
+msgstr ""
+
+#: ../models/model.php:514
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../models/model.php:515
+msgid "Central African Republic"
+msgstr ""
+
+#: ../models/model.php:516
+msgid "Chad"
+msgstr ""
+
+#: ../models/model.php:517
+msgid "Chile"
+msgstr ""
+
+#: ../models/model.php:518
+msgid "China"
+msgstr ""
+
+#: ../models/model.php:519
+msgid "Christmas Island"
+msgstr ""
+
+#: ../models/model.php:520
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../models/model.php:521
+msgid "Colombia"
+msgstr ""
+
+#: ../models/model.php:522
+msgid "Comoros"
+msgstr ""
+
+#: ../models/model.php:523
+msgid "Congo"
+msgstr ""
+
+#: ../models/model.php:524
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: ../models/model.php:525
+msgid "Cook Islands"
+msgstr ""
+
+#: ../models/model.php:526
+msgid "Costa Rica"
+msgstr ""
+
+#: ../models/model.php:527
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: ../models/model.php:528
+msgid "Croatia"
+msgstr ""
+
+#: ../models/model.php:529
+msgid "Cuba"
+msgstr ""
+
+#: ../models/model.php:530
+msgid "Curaçao"
+msgstr ""
+
+#: ../models/model.php:531
+msgid "Cyprus"
+msgstr ""
+
+#: ../models/model.php:532
+msgid "Czech Republic"
+msgstr ""
+
+#: ../models/model.php:533
+msgid "Denmark"
+msgstr ""
+
+#: ../models/model.php:534
+msgid "Djibouti"
+msgstr ""
+
+#: ../models/model.php:535
+msgid "Dominica"
+msgstr ""
+
+#: ../models/model.php:536
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../models/model.php:537
+msgid "Ecuador"
+msgstr ""
+
+#: ../models/model.php:538
+msgid "Egypt"
+msgstr ""
+
+#: ../models/model.php:539
+msgid "El Salvador"
+msgstr ""
+
+#: ../models/model.php:540
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../models/model.php:541
+msgid "Eritrea"
+msgstr ""
+
+#: ../models/model.php:542
+msgid "Estonia"
+msgstr ""
+
+#: ../models/model.php:543
+msgid "Ethiopia"
+msgstr ""
+
+#: ../models/model.php:544
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: ../models/model.php:545
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../models/model.php:546
+msgid "Fiji"
+msgstr ""
+
+#: ../models/model.php:547
+msgid "Finland"
+msgstr ""
+
+#: ../models/model.php:548
+msgid "France"
+msgstr ""
+
+#: ../models/model.php:549
+msgid "French Guiana"
+msgstr ""
+
+#: ../models/model.php:550
+msgid "French Polynesia"
+msgstr ""
+
+#: ../models/model.php:551
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../models/model.php:552
+msgid "Gabon"
+msgstr ""
+
+#: ../models/model.php:553
+msgid "Gambia"
+msgstr ""
+
+#: ../models/model.php:554
+msgid "Georgia"
+msgstr ""
+
+#: ../models/model.php:555
+msgid "Germany"
+msgstr ""
+
+#: ../models/model.php:556
+msgid "Ghana"
+msgstr ""
+
+#: ../models/model.php:557
+msgid "Gibraltar"
+msgstr ""
+
+#: ../models/model.php:558
+msgid "Greece"
+msgstr ""
+
+#: ../models/model.php:559
+msgid "Greenland"
+msgstr ""
+
+#: ../models/model.php:560
+msgid "Grenada"
+msgstr ""
+
+#: ../models/model.php:561
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../models/model.php:562
+msgid "Guam"
+msgstr ""
+
+#: ../models/model.php:563
+msgid "Guatemala"
+msgstr ""
+
+#: ../models/model.php:564
+msgid "Guernsey"
+msgstr ""
+
+#: ../models/model.php:565
+msgid "Guinea"
+msgstr ""
+
+#: ../models/model.php:566
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../models/model.php:567
+msgid "Guyana"
+msgstr ""
+
+#: ../models/model.php:568
+msgid "Haiti"
+msgstr ""
+
+#: ../models/model.php:569
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../models/model.php:570
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: ../models/model.php:571
+msgid "Honduras"
+msgstr ""
+
+#: ../models/model.php:572
+msgid "Hong Kong"
+msgstr ""
+
+#: ../models/model.php:573
+msgid "Hungary"
+msgstr ""
+
+#: ../models/model.php:574
+msgid "Iceland"
+msgstr ""
+
+#: ../models/model.php:575
+msgid "India"
+msgstr ""
+
+#: ../models/model.php:576
+msgid "Indonesia"
+msgstr ""
+
+#: ../models/model.php:577
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: ../models/model.php:578
+msgid "Iraq"
+msgstr ""
+
+#: ../models/model.php:579
+msgid "Ireland"
+msgstr ""
+
+#: ../models/model.php:580
+msgid "Isle of Man"
+msgstr ""
+
+#: ../models/model.php:581
+msgid "Israel"
+msgstr ""
+
+#: ../models/model.php:582
+msgid "Italy"
+msgstr ""
+
+#: ../models/model.php:583
+msgid "Jamaica"
+msgstr ""
+
+#: ../models/model.php:584
+msgid "Japan"
+msgstr ""
+
+#: ../models/model.php:585
+msgid "Jersey"
+msgstr ""
+
+#: ../models/model.php:586
+msgid "Jordan"
+msgstr ""
+
+#: ../models/model.php:587
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../models/model.php:588
+msgid "Kenya"
+msgstr ""
+
+#: ../models/model.php:589
+msgid "Kiribati"
+msgstr ""
+
+#: ../models/model.php:590
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: ../models/model.php:591
+msgid "Korea, Republic of"
+msgstr ""
+
+#: ../models/model.php:592
+msgid "Kuwait"
+msgstr ""
+
+#: ../models/model.php:593
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../models/model.php:594
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: ../models/model.php:595
+msgid "Latvia"
+msgstr ""
+
+#: ../models/model.php:596
+msgid "Lebanon"
+msgstr ""
+
+#: ../models/model.php:597
+msgid "Lesotho"
+msgstr ""
+
+#: ../models/model.php:598
+msgid "Liberia"
+msgstr ""
+
+#: ../models/model.php:599
+msgid "Libya"
+msgstr ""
+
+#: ../models/model.php:600
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../models/model.php:601
+msgid "Lithuania"
+msgstr ""
+
+#: ../models/model.php:602
+msgid "Luxembourg"
+msgstr ""
+
+#: ../models/model.php:603
+msgid "Macao"
+msgstr ""
+
+#: ../models/model.php:604
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr ""
+
+#: ../models/model.php:605
+msgid "Madagascar"
+msgstr ""
+
+#: ../models/model.php:606
+msgid "Malawi"
+msgstr ""
+
+#: ../models/model.php:607
+msgid "Malaysia"
+msgstr ""
+
+#: ../models/model.php:608
+msgid "Maldives"
+msgstr ""
+
+#: ../models/model.php:609
+msgid "Mali"
+msgstr ""
+
+#: ../models/model.php:610
+msgid "Malta"
+msgstr ""
+
+#: ../models/model.php:611
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../models/model.php:612
+msgid "Martinique"
+msgstr ""
+
+#: ../models/model.php:613
+msgid "Mauritania"
+msgstr ""
+
+#: ../models/model.php:614
+msgid "Mauritius"
+msgstr ""
+
+#: ../models/model.php:615
+msgid "Mayotte"
+msgstr ""
+
+#: ../models/model.php:616
+msgid "Mexico"
+msgstr ""
+
+#: ../models/model.php:617
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: ../models/model.php:618
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: ../models/model.php:619
+msgid "Monaco"
+msgstr ""
+
+#: ../models/model.php:620
+msgid "Mongolia"
+msgstr ""
+
+#: ../models/model.php:621
+msgid "Montenegro"
+msgstr ""
+
+#: ../models/model.php:622
+msgid "Montserrat"
+msgstr ""
+
+#: ../models/model.php:623
+msgid "Morocco"
+msgstr ""
+
+#: ../models/model.php:624
+msgid "Mozambique"
+msgstr ""
+
+#: ../models/model.php:625
+msgid "Myanmar"
+msgstr ""
+
+#: ../models/model.php:626
+msgid "Namibia"
+msgstr ""
+
+#: ../models/model.php:627
+msgid "Nauru"
+msgstr ""
+
+#: ../models/model.php:628
+msgid "Nepal"
+msgstr ""
+
+#: ../models/model.php:629
+msgid "Netherlands"
+msgstr ""
+
+#: ../models/model.php:630
+msgid "New Caledonia"
+msgstr ""
+
+#: ../models/model.php:631
+msgid "New Zealand"
+msgstr ""
+
+#: ../models/model.php:632
+msgid "Nicaragua"
+msgstr ""
+
+#: ../models/model.php:633
+msgid "Niger"
+msgstr ""
+
+#: ../models/model.php:634
+msgid "Nigeria"
+msgstr ""
+
+#: ../models/model.php:635
+msgid "Niue"
+msgstr ""
+
+#: ../models/model.php:636
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../models/model.php:637
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../models/model.php:638
+msgid "Norway"
+msgstr ""
+
+#: ../models/model.php:639
+msgid "Oman"
+msgstr ""
+
+#: ../models/model.php:640
+msgid "Pakistan"
+msgstr ""
+
+#: ../models/model.php:641
+msgid "Palau"
+msgstr ""
+
+#: ../models/model.php:642
+msgid "Palestine, State of"
+msgstr ""
+
+#: ../models/model.php:643
+msgid "Panama"
+msgstr ""
+
+#: ../models/model.php:644
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../models/model.php:645
+msgid "Paraguay"
+msgstr ""
+
+#: ../models/model.php:646
+msgid "Peru"
+msgstr ""
+
+#: ../models/model.php:647
+msgid "Philippines"
+msgstr ""
+
+#: ../models/model.php:648
+msgid "Pitcairn"
+msgstr ""
+
+#: ../models/model.php:649
+msgid "Poland"
+msgstr ""
+
+#: ../models/model.php:650
+msgid "Portugal"
+msgstr ""
+
+#: ../models/model.php:651
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../models/model.php:652
+msgid "Qatar"
+msgstr ""
+
+#: ../models/model.php:653
+msgid "Réunion"
+msgstr ""
+
+#: ../models/model.php:654
+msgid "Romania"
+msgstr ""
+
+#: ../models/model.php:655
+msgid "Russian Federation"
+msgstr ""
+
+#: ../models/model.php:656
+msgid "Rwanda"
+msgstr ""
+
+#: ../models/model.php:657
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: ../models/model.php:658
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: ../models/model.php:659
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../models/model.php:660
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../models/model.php:661
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../models/model.php:662
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../models/model.php:663
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../models/model.php:664
+msgid "Samoa"
+msgstr ""
+
+#: ../models/model.php:665
+msgid "San Marino"
+msgstr ""
+
+#: ../models/model.php:666
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: ../models/model.php:667
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../models/model.php:668
+msgid "Senegal"
+msgstr ""
+
+#: ../models/model.php:669
+msgid "Serbia"
+msgstr ""
+
+#: ../models/model.php:670
+msgid "Seychelles"
+msgstr ""
+
+#: ../models/model.php:671
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../models/model.php:672
+msgid "Singapore"
+msgstr ""
+
+#: ../models/model.php:673
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: ../models/model.php:674
+msgid "Slovakia"
+msgstr ""
+
+#: ../models/model.php:675
+msgid "Slovenia"
+msgstr ""
+
+#: ../models/model.php:676
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../models/model.php:677
+msgid "Somalia"
+msgstr ""
+
+#: ../models/model.php:678
+msgid "South Africa"
+msgstr ""
+
+#: ../models/model.php:679
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: ../models/model.php:680
+msgid "South Sudan"
+msgstr ""
+
+#: ../models/model.php:681
+msgid "Spain"
+msgstr ""
+
+#: ../models/model.php:682
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../models/model.php:683
+msgid "Sudan"
+msgstr ""
+
+#: ../models/model.php:684
+msgid "Suriname"
+msgstr ""
+
+#: ../models/model.php:685
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../models/model.php:686
+msgid "Swaziland"
+msgstr ""
+
+#: ../models/model.php:687
+msgid "Sweden"
+msgstr ""
+
+#: ../models/model.php:688
+msgid "Switzerland"
+msgstr ""
+
+#: ../models/model.php:689
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: ../models/model.php:690
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: ../models/model.php:691
+msgid "Tajikistan"
+msgstr ""
+
+#: ../models/model.php:692
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: ../models/model.php:693
+msgid "Thailand"
+msgstr ""
+
+#: ../models/model.php:694
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../models/model.php:695
+msgid "Togo"
+msgstr ""
+
+#: ../models/model.php:696
+msgid "Tokelau"
+msgstr ""
+
+#: ../models/model.php:697
+msgid "Tonga"
+msgstr ""
+
+#: ../models/model.php:698
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../models/model.php:699
+msgid "Tunisia"
+msgstr ""
+
+#: ../models/model.php:700
+msgid "Turkey"
+msgstr ""
+
+#: ../models/model.php:701
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../models/model.php:702
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../models/model.php:703
+msgid "Tuvalu"
+msgstr ""
+
+#: ../models/model.php:704
+msgid "Uganda"
+msgstr ""
+
+#: ../models/model.php:705
+msgid "Ukraine"
+msgstr ""
+
+#: ../models/model.php:706
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../models/model.php:707
+msgid "United Kingdom"
+msgstr ""
+
+#: ../models/model.php:708
+msgid "United States"
+msgstr ""
+
+#: ../models/model.php:709
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: ../models/model.php:710
+msgid "Uruguay"
+msgstr ""
+
+#: ../models/model.php:711
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../models/model.php:712
+msgid "Vanuatu"
+msgstr ""
+
+#: ../models/model.php:713
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: ../models/model.php:714
+msgid "Viet Nam"
+msgstr ""
+
+#: ../models/model.php:715
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: ../models/model.php:716
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: ../models/model.php:717
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../models/model.php:718
+msgid "Western Sahara"
+msgstr ""
+
+#: ../models/model.php:719
+msgid "Yemen"
+msgstr ""
+
+#: ../models/model.php:720
+msgid "Zambia"
+msgstr ""
+
+#: ../models/model.php:721
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../models/model.php:735
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: ../models/model.php:736
+msgid "Afghan afghani"
+msgstr ""
+
+#: ../models/model.php:737
+msgid "Albanian lek"
+msgstr ""
+
+#: ../models/model.php:738
+msgid "Armenian dram"
+msgstr ""
+
+#: ../models/model.php:739
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: ../models/model.php:740
+msgid "Angolan kwanza"
+msgstr ""
+
+#: ../models/model.php:741
+msgid "Argentine peso"
+msgstr ""
+
+#: ../models/model.php:742
+msgid "Australian dollar"
+msgstr ""
+
+#: ../models/model.php:743
+msgid "Aruban florin"
+msgstr ""
+
+#: ../models/model.php:744
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: ../models/model.php:745
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: ../models/model.php:746
+msgid "Barbados dollar"
+msgstr ""
+
+#: ../models/model.php:747
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: ../models/model.php:748
+msgid "Bulgarian lev"
+msgstr ""
+
+#: ../models/model.php:749
+msgid "Bahraini dinar"
+msgstr ""
+
+#: ../models/model.php:750
+msgid "Burundian franc"
+msgstr ""
+
+#: ../models/model.php:751
+msgid "Bermudian dollar"
+msgstr ""
+
+#: ../models/model.php:752
+msgid "Brunei dollar"
+msgstr ""
+
+#: ../models/model.php:753
+msgid "Boliviano"
+msgstr ""
+
+#: ../models/model.php:754
+msgid "Bolivian Mvdol (funds code)"
+msgstr ""
+
+#: ../models/model.php:755
+msgid "Brazilian real"
+msgstr ""
+
+#: ../models/model.php:756
+msgid "Bahamian dollar"
+msgstr ""
+
+#: ../models/model.php:757
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: ../models/model.php:758
+msgid "Botswana pula"
+msgstr ""
+
+#: ../models/model.php:759
+msgid "Belarusian ruble"
+msgstr ""
+
+#: ../models/model.php:760
+msgid "Belize dollar"
+msgstr ""
+
+#: ../models/model.php:761
+msgid "Canadian dollar"
+msgstr ""
+
+#: ../models/model.php:762
+msgid "Congolese franc"
+msgstr ""
+
+#: ../models/model.php:763
+msgid "WIR Euro (complementary currency)"
+msgstr ""
+
+#: ../models/model.php:764
+msgid "Swiss franc"
+msgstr ""
+
+#: ../models/model.php:765
+msgid "WIR Franc (complementary currency)"
+msgstr ""
+
+#: ../models/model.php:766
+msgid "Unidad de Fomento (funds code)"
+msgstr ""
+
+#: ../models/model.php:767
+msgid "Chilean peso"
+msgstr ""
+
+#: ../models/model.php:768
+msgid "Chinese yuan"
+msgstr ""
+
+#: ../models/model.php:769
+msgid "Colombian peso"
+msgstr ""
+
+#: ../models/model.php:770
+msgid "Unidad de Valor Real (UVR) (funds code)[7]"
+msgstr ""
+
+#: ../models/model.php:771
+msgid "Costa Rican colon"
+msgstr ""
+
+#: ../models/model.php:772
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: ../models/model.php:773
+msgid "Cuban peso"
+msgstr ""
+
+#: ../models/model.php:774
+msgid "Cape Verde escudo"
+msgstr ""
+
+#: ../models/model.php:775
+msgid "Czech koruna"
+msgstr ""
+
+#: ../models/model.php:776
+msgid "Djiboutian franc"
+msgstr ""
+
+#: ../models/model.php:777
+msgid "Danish krone"
+msgstr ""
+
+#: ../models/model.php:778
+msgid "Dominican peso"
+msgstr ""
+
+#: ../models/model.php:779
+msgid "Algerian dinar"
+msgstr ""
+
+#: ../models/model.php:780
+msgid "Egyptian pound"
+msgstr ""
+
+#: ../models/model.php:781
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: ../models/model.php:782
+msgid "Ethiopian birr"
+msgstr ""
+
+#: ../models/model.php:783
+msgid "Euro"
+msgstr ""
+
+#: ../models/model.php:784
+msgid "Fiji dollar"
+msgstr ""
+
+#: ../models/model.php:785
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: ../models/model.php:786
+msgid "Pound sterling"
+msgstr ""
+
+#: ../models/model.php:787
+msgid "Georgian lari"
+msgstr ""
+
+#: ../models/model.php:788
+msgid "Ghanaian cedi"
+msgstr ""
+
+#: ../models/model.php:789
+msgid "Gibraltar pound"
+msgstr ""
+
+#: ../models/model.php:790
+msgid "Gambian dalasi"
+msgstr ""
+
+#: ../models/model.php:791
+msgid "Guinean franc"
+msgstr ""
+
+#: ../models/model.php:792
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: ../models/model.php:793
+msgid "Guyanese dollar"
+msgstr ""
+
+#: ../models/model.php:794
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: ../models/model.php:795
+msgid "Honduran lempira"
+msgstr ""
+
+#: ../models/model.php:796
+msgid "Croatian kuna"
+msgstr ""
+
+#: ../models/model.php:797
+msgid "Haitian gourde"
+msgstr ""
+
+#: ../models/model.php:798
+msgid "Hungarian forint"
+msgstr ""
+
+#: ../models/model.php:799
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: ../models/model.php:800
+msgid "Israeli new shekel"
+msgstr ""
+
+#: ../models/model.php:801
+msgid "Indian rupee"
+msgstr ""
+
+#: ../models/model.php:802
+msgid "Iraqi dinar"
+msgstr ""
+
+#: ../models/model.php:803
+msgid "Iranian rial"
+msgstr ""
+
+#: ../models/model.php:804
+msgid "Icelandic króna"
+msgstr ""
+
+#: ../models/model.php:805
+msgid "Jamaican dollar"
+msgstr ""
+
+#: ../models/model.php:806
+msgid "Jordanian dinar"
+msgstr ""
+
+#: ../models/model.php:807
+msgid "Japanese yen"
+msgstr ""
+
+#: ../models/model.php:808
+msgid "Kenyan shilling"
+msgstr ""
+
+#: ../models/model.php:809
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: ../models/model.php:810
+msgid "Cambodian riel"
+msgstr ""
+
+#: ../models/model.php:811
+msgid "Comoro franc"
+msgstr ""
+
+#: ../models/model.php:812
+msgid "North Korean won"
+msgstr ""
+
+#: ../models/model.php:813
+msgid "South Korean won"
+msgstr ""
+
+#: ../models/model.php:814
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: ../models/model.php:815
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: ../models/model.php:816
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: ../models/model.php:817
+msgid "Lao kip"
+msgstr ""
+
+#: ../models/model.php:818
+msgid "Lebanese pound"
+msgstr ""
+
+#: ../models/model.php:819
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: ../models/model.php:820
+msgid "Liberian dollar"
+msgstr ""
+
+#: ../models/model.php:821
+msgid "Lesotho loti"
+msgstr ""
+
+#: ../models/model.php:822
+msgid "Lithuanian litas"
+msgstr ""
+
+#: ../models/model.php:823
+msgid "Latvian lats"
+msgstr ""
+
+#: ../models/model.php:824
+msgid "Libyan dinar"
+msgstr ""
+
+#: ../models/model.php:825
+msgid "Moroccan dirham"
+msgstr ""
+
+#: ../models/model.php:826
+msgid "Moldovan leu"
+msgstr ""
+
+#: ../models/model.php:827
+msgid "Malagasy ariary"
+msgstr ""
+
+#: ../models/model.php:828
+msgid "Macedonian denar"
+msgstr ""
+
+#: ../models/model.php:829
+msgid "Myanma kyat"
+msgstr ""
+
+#: ../models/model.php:830
+msgid "Mongolian tugrik"
+msgstr ""
+
+#: ../models/model.php:831
+msgid "Macanese pataca"
+msgstr ""
+
+#: ../models/model.php:832
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: ../models/model.php:833
+msgid "Mauritian rupee"
+msgstr ""
+
+#: ../models/model.php:834
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: ../models/model.php:835
+msgid "Malawian kwacha"
+msgstr ""
+
+#: ../models/model.php:836
+msgid "Mexican peso"
+msgstr ""
+
+#: ../models/model.php:837
+msgid "Mexican Unidad de Inversion (UDI) (funds code)"
+msgstr ""
+
+#: ../models/model.php:838
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: ../models/model.php:839
+msgid "Mozambican metical"
+msgstr ""
+
+#: ../models/model.php:840
+msgid "Namibian dollar"
+msgstr ""
+
+#: ../models/model.php:841
+msgid "Nigerian naira"
+msgstr ""
+
+#: ../models/model.php:842
+msgid "Nicaraguan córdoba"
+msgstr ""
+
+#: ../models/model.php:843
+msgid "Norwegian krone"
+msgstr ""
+
+#: ../models/model.php:844
+msgid "Nepalese rupee"
+msgstr ""
+
+#: ../models/model.php:845
+msgid "New Zealand dollar"
+msgstr ""
+
+#: ../models/model.php:846
+msgid "Omani rial"
+msgstr ""
+
+#: ../models/model.php:847
+msgid "Panamanian balboa"
+msgstr ""
+
+#: ../models/model.php:848
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: ../models/model.php:849
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: ../models/model.php:850
+msgid "Philippine peso"
+msgstr ""
+
+#: ../models/model.php:851
+msgid "Pakistani rupee"
+msgstr ""
+
+#: ../models/model.php:852
+msgid "Polish złoty"
+msgstr ""
+
+#: ../models/model.php:853
+msgid "Paraguayan guaraní"
+msgstr ""
+
+#: ../models/model.php:854
+msgid "Qatari riyal"
+msgstr ""
+
+#: ../models/model.php:855
+msgid "Romanian new leu"
+msgstr ""
+
+#: ../models/model.php:856
+msgid "Serbian dinar"
+msgstr ""
+
+#: ../models/model.php:857
+msgid "Russian rouble"
+msgstr ""
+
+#: ../models/model.php:858
+msgid "Rwandan franc"
+msgstr ""
+
+#: ../models/model.php:859
+msgid "Saudi riyal"
+msgstr ""
+
+#: ../models/model.php:860
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: ../models/model.php:861
+msgid "Seychelles rupee"
+msgstr ""
+
+#: ../models/model.php:862
+msgid "Sudanese pound"
+msgstr ""
+
+#: ../models/model.php:863
+msgid "Swedish krona/kronor"
+msgstr ""
+
+#: ../models/model.php:864
+msgid "Singapore dollar"
+msgstr ""
+
+#: ../models/model.php:865
+msgid "Saint Helena pound"
+msgstr ""
+
+#: ../models/model.php:866
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: ../models/model.php:867
+msgid "Somali shilling"
+msgstr ""
+
+#: ../models/model.php:868
+msgid "Surinamese dollar"
+msgstr ""
+
+#: ../models/model.php:869
+msgid "South Sudanese pound"
+msgstr ""
+
+#: ../models/model.php:870
+msgid "São Tomé and Príncipe dobra"
+msgstr ""
+
+#: ../models/model.php:871
+msgid "Syrian pound"
+msgstr ""
+
+#: ../models/model.php:872
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: ../models/model.php:873
+msgid "Thai baht"
+msgstr ""
+
+#: ../models/model.php:874
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: ../models/model.php:875
+msgid "Turkmenistani manat"
+msgstr ""
+
+#: ../models/model.php:876
+msgid "Tunisian dinar"
+msgstr ""
+
+#: ../models/model.php:877
+msgid "Tongan paʻanga"
+msgstr ""
+
+#: ../models/model.php:878
+msgid "Turkish lira"
+msgstr ""
+
+#: ../models/model.php:879
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: ../models/model.php:880
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: ../models/model.php:881
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: ../models/model.php:882
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: ../models/model.php:883
+msgid "Ugandan shilling"
+msgstr ""
+
+#: ../models/model.php:884
+msgid "United States dollar"
+msgstr ""
+
+#: ../models/model.php:885
+msgid "United States dollar (next day) (funds code)"
+msgstr ""
+
+#: ../models/model.php:886
+msgid "United States dollar (same day) (funds code)"
+msgstr ""
+
+#: ../models/model.php:887
+msgid "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)"
+msgstr ""
+
+#: ../models/model.php:888
+msgid "Uruguayan peso"
+msgstr ""
+
+#: ../models/model.php:889
+msgid "Uzbekistan som"
+msgstr ""
+
+#: ../models/model.php:890
+msgid "Venezuelan bolívar"
+msgstr ""
+
+#: ../models/model.php:891
+msgid "Vietnamese dong"
+msgstr ""
+
+#: ../models/model.php:892
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: ../models/model.php:893
+msgid "Samoan tala"
+msgstr ""
+
+#: ../models/model.php:894
+msgid "CFA franc BEAC"
+msgstr ""
+
+#: ../models/model.php:895
+msgid "Silver (one troy ounce)"
+msgstr ""
+
+#: ../models/model.php:896
+msgid "Gold (one troy ounce)"
+msgstr ""
+
+#: ../models/model.php:897
+msgid "European Composite Unit (EURCO) (bond market unit)"
+msgstr ""
+
+#: ../models/model.php:898
+msgid "European Monetary Unit (E.M.U.-6) (bond market unit)"
+msgstr ""
+
+#: ../models/model.php:899
+msgid "European Unit of Account 9 (E.U.A.-9) (bond market unit)"
+msgstr ""
+
+#: ../models/model.php:900
+msgid "European Unit of Account 17 (E.U.A.-17) (bond market unit)"
+msgstr ""
+
+#: ../models/model.php:901
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: ../models/model.php:902
+msgid "Special drawing rights"
+msgstr ""
+
+#: ../models/model.php:903
+msgid "UIC franc (special settlement currency)"
+msgstr ""
+
+#: ../models/model.php:904
+msgid "CFA franc BCEAO"
+msgstr ""
+
+#: ../models/model.php:905
+msgid "Palladium (one troy ounce)"
+msgstr ""
+
+#: ../models/model.php:906
+msgid "CFP franc (franc Pacifique)"
+msgstr ""
+
+#: ../models/model.php:907
+msgid "Platinum (one troy ounce)"
+msgstr ""
+
+#: ../models/model.php:908
+msgid "Code reserved for testing purposes"
+msgstr ""
+
+#: ../models/model.php:909
+msgid "No currency"
+msgstr ""
+
+#: ../models/model.php:910
+msgid "Yemeni rial"
+msgstr ""
+
+#: ../models/model.php:911
+msgid "South African rand"
+msgstr ""
+
+#: ../models/model.php:912
+msgid "Zambian kwacha"
+msgstr ""
+
+#: ../models/model.php:1067
+msgid "Please wait! Save in progress..."
+msgstr ""
+
+#: ../models/model.php:1068
+msgid "Success."
+msgstr ""
+
+#: ../models/model.php:1069
+msgid "An error occurred (server side)."
+msgstr ""
+
+#: ../models/model.php:1070
+msgid "An error occurred (ajax)."
+msgstr ""
+
+#: ../models/model.php:1071
+msgid "Reloading the page..."
+msgstr ""
+
+#: ../models/model.php:1788
+msgid "Address"
+msgstr ""
+
+#: ../models/model.php:1812
+msgid "A location where you can find us."
+msgstr ""
+
+#: ../controllers/controller.php:66
+msgid "This plugin requires WordPress version"
+msgstr ""
+
+#: ../controllers/controller.php:68
+msgid "or higher."
+msgstr ""
+
+#: ../controllers/controller.php:364
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../controllers/controller.php:366
+msgid "Admin home"
+msgstr ""
+

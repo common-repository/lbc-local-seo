@@ -1,0 +1,60 @@
+The social-icons.png file is _NOT_ covered by GPLv2 or later license (GNU
+GENERAL PUBLIC LICENSE)!
+
+The social-icons.png file is covered by Creative Market SimpleLicense:
+https://creativemarket.com/licenses/simple
+
+
+SimpleLicense: Licensing Made Easy
+
+We know that getting your head around complex licensing rights can be confusing.
+So we’ve put together the Creative Market SimpleLicense - written in plain
+english - to help you easily understand the license that comes with every
+product on Creative Market.
+
+The SimpleLicense gives you the right to use any item purchased on Creative
+Market in a personal or commercial project for yourself or a client, but the
+item cannot be resold or redistributed on its own, or used in a product offered
+for sale where the item contributes to the core value of the product being sold.
+
+Here’s what the SimpleLicense allows for each item on Creative Market:
+
+- Personal or commercial use
+- Fonts, Add-Ons (actions, brushes, etc), and other installable items may only
+  be installed on a single computer, but can be used in multiple projects.
+- All other items may only be used in a single commercial project.
+- For yourself or on behalf of a client
+- On its own, or as part of a new work
+- When used as part of a new work, there’s no limit to the number of copies of
+  the new work that can be distributed so long as the copies are not offered for
+  sale
+- Cannot be sublicensed, resold, shared, transferred, or otherwise redistributed
+  on its own (even for free)
+- Cannot be used in a product offered for sale where the item contributes to the
+  core value of the product being sold. For example:
+  You can...
+  - Use a purchased icon set as functional icons in your app, such as button
+    icons.
+  - Use a purchased theme for your own personal blog or a client website.
+  - Use a purchased font to create a logo for a client.
+  - Use a purchased logo in a website for yourself or a client.
+  - Convert a purchased website template to an HTML website or theme for
+    yourself or a client.
+  You cannot...
+  - Use a purchased icon set as artwork that enhances actual gameplay in your
+    app, such as the birds in Angry Birds.
+  - Offer a purchased theme to users of your hosting or blogging service (even
+    for free).
+  - Distribute the purchased font with the logo.
+  - Include the purchased logo with a website offered for sale or distributed
+    for free.
+  - Convert a purchased website template to a theme to sell or distribute for
+    free.
+
+Portions of some products may be covered by an open source software license such
+as the GPL (GNU General Public License). In these cases, any portions of the
+product not covered by an open source license will be covered by this license.
+
+If you’re still unclear about what is or isn’t allowed under the SimpleLicense,
+please respect the creator and contact the Creative Market team or the seller
+for clarification.

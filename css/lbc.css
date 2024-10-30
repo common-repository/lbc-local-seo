@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+#toplevel_page_lbc-local-seo-plg .wp-menu-image img {
+	display: none;
+}
+
+#toplevel_page_lbc-local-seo-plg div.wp-menu-image {
+	width: 31px;
+	margin-top: 3px;
+	margin-left: 5px;
+	background: url('../images/lbc-menu-icons.png') no-repeat 0 0;
+}
+
+#toplevel_page_lbc-local-seo-plg:hover .wp-menu-image,
+#toplevel_page_lbc-local-seo-plg.wp-menu-open .wp-menu-image {
+	background-position: -30px 0;
+}
+
+#toplevel_page_lbc-local-seo-plg .wp-submenu .wp-first-item {
+	display: none;
+}
+
+#lbc_page_icon {
+	background: url('../images/lbc-page-icon.png') no-repeat;
+}
